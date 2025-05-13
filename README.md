@@ -1,17 +1,36 @@
-<h1 align="center">Hi 👋, I'm Zoya</h1>
-<h3 align="center">a data analyst from India</h3>
+# 🧠 Java Learning Journey: Beginner to Advanced + DSA 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zoyaejaz&label=Profile%20views&color=0e75b6&style=flat" alt="zoyaejaz" /> </p>
+Welcome to my **Java Learning Repository**!  
+This is where I document my complete journey of mastering Java — from the fundamentals to advanced concepts — along with **Data Structures and Algorithms (DSA)**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zoyaejaz" alt="zoyaejaz" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zoya1509/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zoya1509/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/zoyaejaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/zoyaejaz/" height="30" width="40" /></a>
-</p>
+## 📚 What You'll Find Here
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+### 📌 Java Core Concepts:
+- ✅ Variables, Data Types, Operators
+- ✅ Control Flow (if-else, switch, loops)
+- ✅ Functions & Methods
+- ✅ Object-Oriented Programming (OOP)
+  - Classes and Objects
+  - Inheritance
+  - Polymorphism
+  - Abstraction & Encapsulation
+- ✅ Exception Handling
+- ✅ File I/O
+- ✅ Collections Framework
+- ✅ Multithreading Basics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoyaejaz&show_icons=true&locale=en&layout=compact" alt="zoyaejaz" /></p>
+### 🧩 Data Structures & Algorithms (DSA):
+- ✅ Arrays and Strings
+- ✅ Linked Lists
+- ✅ Stacks & Queues
+- ✅ Trees & Binary Search Trees (BST)
+- ✅ HashMaps & HashSets
+- ✅ Recursion & Backtracking
+- ✅ Sorting Algorithms (Bubble, Merge, Quick, etc.)
+- ✅ Searching Algorithms (Linear, Binary Search)
+- ✅ Time and Space Complexity Analysis
+
+---
+
